@@ -4,4 +4,3 @@
   entry: yamllint
   language: conda
   types: [file, yaml]
-  language: python
