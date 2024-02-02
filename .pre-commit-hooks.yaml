@@ -1,0 +1,5 @@
+- id: yamllint-conda
+  name: yamllint-conda
+  description: 'This hook runs yamllint. yamllint does not only check for syntax validity, but for weirdnesses like key repetition and cosmetic problems such as lines length, trailing spaces, indentation, etc.'
+  entry: yamllint
+  language: conda
